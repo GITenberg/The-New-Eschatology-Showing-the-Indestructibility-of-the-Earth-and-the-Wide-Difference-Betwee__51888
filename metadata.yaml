@@ -1,0 +1,25 @@
+_repo: The-New-Eschatology-Showing-the-Indestructibility-of-the-Earth-and-the-Wide-Difference-Betwee__51888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pegg, J. G. Broughton
+    gutenberg_agent_id: '46594'
+    url: http://www.gutenberg.org/2009/agents/46594
+description: ''
+gutenberg_issued: '2016-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51888'
+  lccn: '46028147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eschatology'
+- !lcc 'BT'
+- !lcsh 'Judgment Day'
+- GITenberg
+title: "The New Eschatology\r\nShowing the Indestructibility of the Earth and the\
+  \ Wide Difference Between the Letter and Spirit of Holy Scripture."
+url: http://www.gutenberg.org/ebooks/51888
